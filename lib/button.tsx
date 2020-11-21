@@ -7,5 +7,5 @@ export default class button extends Component {
         
       </div>
     )
-  }
+  } 
 }
